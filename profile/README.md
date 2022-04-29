@@ -1,4 +1,3 @@
-![Art Work](assets/mooncraft-artwork.png)
 # Welcome!
 This is the official open-source version of SafeMoon's Mooncraft project. 
 Mooncraft is a combination of different game modes for the community built within Minecraft.
